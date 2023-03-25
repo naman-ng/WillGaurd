@@ -37,7 +37,7 @@ const fireChain = {
 };
 
 const { chains, provider } = configureChains(
-  [fantomTestnet],
+  [fireChain],
   [
     jsonRpcProvider({
       rpc: () => ({ http: "https://rpc-testnet.5ire.network/" }),

@@ -5,9 +5,6 @@ export const contractAbi = contractStuff.abi;
 export const ercTokenAbi = erc20abi.abi;
 
 export const mockTokenAddress = erc20abi.address;
-export const ERC721MockAddress = '0x9AfFDF8A6b23f42d25EEFF5d79d2b3DEf5092D0E';
-export const ERC1155MockAddress = '0xAB45D1cDDf5e32781071c94127c519510819B422';
-
 
 export const contractAddress = contractStuff.address;
 
