@@ -78,7 +78,7 @@ const index = () => {
           </>
         ) : (
           <>
-            <p>Please Connect Wallet</p>
+            <p className="text-white">Please Connect Wallet</p>
           </>
         )}
       </main>

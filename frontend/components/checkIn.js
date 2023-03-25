@@ -56,7 +56,7 @@ const checkIn = () => {
 
   return (
     <>
-      <h2 className=" text-xl font-bold p-5">
+      <h2 className="text-white text-xl font-bold p-5">
         Day of will execution: {dateLookup(executionDay).toDateString()}
       </h2>
       <button
