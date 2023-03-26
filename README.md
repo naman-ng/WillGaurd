@@ -15,3 +15,11 @@ WillGuard is a solution that addresses the challenges faced by users in managing
 - wagmi
 - rainbow kit
 
+# Smart Contract Addresses
+WillGaurd main contract - 0x2e29b044DCeF53796A9f3437C4FA05036761F669 </br>
+thirdweb - https://thirdweb.com/5irechain/0x2e29b044DCeF53796A9f3437C4FA05036761F669
+
+
+WillGaurd test token - 0x56787904086EC3311FeEefd02B9D15E28212CE78 </br>
+thirdweb - https://thirdweb.com/5irechain/0x56787904086EC3311FeEefd02B9D15E28212CE78
+
